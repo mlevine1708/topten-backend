@@ -1,0 +1,2 @@
+class MusicList < ApplicationRecord
+end
